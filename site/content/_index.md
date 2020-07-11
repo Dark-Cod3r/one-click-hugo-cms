@@ -1,31 +1,29 @@
 ---
 title: Technology Ninja
 subtitle: "Best Windows & Linux Tech Tips "
-image: /img/home-jumbotron.jpg
+image: img/effective_pc_tips_400.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: What is Pagefile & Virtual Memory in Windows?
+  text: >-
+    When the total amount of RAM used by your active programs exceeds the amount
+    of RAM installed on your computer, Windows starts moving the data of the
+    least active or minimized programs from RAM to a file called pagefile.sys
+    located on your Hard Disk Drive. This transfer of data is done to make space
+    for the active programs or the programs that you want to use. This is also
+    done to prevent the applications from crashing, which would mean the loss of
+    data.
+
+
+    The data is moved in the form of 4-KB pieces called Pages. 
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: How to Find the Best Antivirus for Your Windows PC?
+  text: >+
+    An Antivirus is an essential component of the Windows PC. It is one of the
+    first software to be installed on Windows. But there are so many choices,
+    which one to pick, and how to find the best antivirus? Find the Best
+    Antivirus for your Windows Section 1: Antivirus Explained What …
+
+products: []
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
